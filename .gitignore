@@ -1,0 +1,10 @@
+# Ignore backend virtual environment
+server/venv/
+
+# Ignore frontend node modules
+client/node_modules/
+
+# Other common Python files to ignore
+__pycache__/
+*.pyc
+*.pyo
